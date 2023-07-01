@@ -20,6 +20,7 @@ dependencies {
     implementation 'com.github.javafaker:javafaker:1.0.2'
     testCompileOnly 'org.projectlombok:lombok:1.18.28'
     testAnnotationProcessor 'org.projectlombok:lombok:1.18.28'
+    implementation 'io.github.bonigarcia:webdrivermanager:5.4.0'
 }
 
 test {
